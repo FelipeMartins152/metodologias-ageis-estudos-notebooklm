@@ -7,11 +7,11 @@ O assunto escolhido para fazer esse desafio foi o de metodologias ágeis, pois s
 ## [Link NotebookLM - Metodologias Ágeis](https://notebooklm.google.com/notebook/9628877e-2fc8-4fce-85df-a1ab1d530c55)
 
 ## Fontes utilizadas no NotebookLM:
-[dbc - Metodologias Ágeis](https://www.dbccompany.com.br/metodologias-ageis-transformando-a-maneira-como-desenvolvemos-softwares/)
-[FIA - Scrum](https://fia.com.br/blog/scrum/)
-[Atlassian - Kanban](https://www.atlassian.com/br/agile/kanban)
-[Agile Alliance - Extreme Programming](https://agilealliance.org/glossary/xp/)
-[Levty - Deferenças entre metodologias](https://www.levty.com/br/blog/diferencas-entre-metodologias-6581a07ae8bea1272c256c57)
+- [dbc - Metodologias Ágeis](https://www.dbccompany.com.br/metodologias-ageis-transformando-a-maneira-como-desenvolvemos-softwares/)
+- [FIA - Scrum](https://fia.com.br/blog/scrum/)
+- [Atlassian - Kanban](https://www.atlassian.com/br/agile/kanban)
+- [Agile Alliance - Extreme Programming](https://agilealliance.org/glossary/xp/)
+- [Levty - Deferenças entre metodologias](https://www.levty.com/br/blog/diferencas-entre-metodologias-6581a07ae8bea1272c256c57)
 
 ## Engenharia de Prompts:
 ### Prompt 1: O que são metodologias ágeis?
